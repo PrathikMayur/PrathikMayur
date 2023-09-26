@@ -7,6 +7,9 @@ Get in Touch
 I'm always open to collaboration and discussions related to data analysis, web development, or cloud computing. If you share similar interests or have exciting project ideas, feel free to reach out. Let's connect and explore opportunities to work together.
 
 GitHub: github.com/PrathikMayur
+
 LinkedIn: https://www.linkedin.com/in/prathik-mayur-bandi-114491185/
+
 Email: prathikmayur98@gmail.com
+
 Thank you for visiting my GitHub profile, and I look forward to engaging with you in our shared journey of exploration and learning.
