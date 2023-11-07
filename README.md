@@ -10,6 +10,6 @@ GitHub: github.com/PrathikMayur
 
 LinkedIn: https://www.linkedin.com/in/prathik-mayur-bandi-114491185/
 
-Email: prathikmayur98@gmail.com
+Email: prathikmayur.IT@gmail.com
 
 Thank you for visiting my GitHub profile, and I look forward to engaging with you in our shared journey of exploration and learning.
